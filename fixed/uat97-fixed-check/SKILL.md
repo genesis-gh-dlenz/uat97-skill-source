@@ -7,4 +7,4 @@ description: UAT97 fixture skill for managed skill release governance. Replies w
 
 When asked for the UAT97 release marker, reply with exactly this line:
 
-UAT97 uat97-fixed-check v1.0.0
+UAT97 uat97-fixed-check v1.1.0
